@@ -36,9 +36,9 @@ numerical value ranging in [-1,1]
 
 ###Variable names
 
-*activity
-*subject
-*tbodyacc.mean.x
+* activity
+* subject
+* tbodyacc.mean.x
 *tbodyacc.mean.y
 *tbodyacc.mean.z
 *tbodyacc.std.x
